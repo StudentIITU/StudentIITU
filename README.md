@@ -1,33 +1,49 @@
-[![MasterHead](https://i.postimg.cc/BnmzNY8q/Mocko-Fun-Graphic-Designer-1.gif)](https://postimg.cc/MnjtpYb4)
 
 <h1 align="center">Hi 👋, I'm Damir Nurgali</h1>
 <h3 align="center">An extraordinary backend developer from Kazakhstan</h3>
 
-<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZudjAyOTIwYjVqa3B6MWhtYTJqdDcxNzlsbW5qMzQ4ZmVuZHlobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" alt="Glitchy rotating laptop">
+<!-- Align GIF and Text Side-by-Side -->
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        - 🔭 I’m currently working on <a href="https://github.com/StudentIITU/service-2">service-2 (silly name ofc)</a><br>
+        - 🌱 I’m currently learning <strong>Spring Boot, Spring Security, Java Collection Framework, Kotlin & Jetpack Compose</strong><br>
+        - 👨‍💻 All of my projects are available at <a href="https://github.com/StudentIITU">https://github.com/StudentIITU</a><br>
+        - 💬 Ask me about <strong>Java, Java SE, Threads, Streams, Collections Framework</strong><br>
+        - 📫 How to reach me: <strong>nurgalydamir03@gmail.com</strong><br>
+        - ⚡ Fun fact: <strong>I thrive under pressure and remain calm in stressful situations.</strong>
+      </p>
+    </td>
+    <td width="40%">
+      <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZudjAyOTIwYjVqa3B6MWhtYTJqdDcxNzlsbW5qMzQ4ZmVuZHlobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" alt="Glitchy rotating laptop">
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=studentiitu&label=Profile%20views&color=0e75b6&style=flat" alt="studentiitu" /> </p>
 
-- 🔭 I’m currently working on [service-2 (silly name ofc)](https://github.com/StudentIITU/service-2)
-
-- 🌱 I’m currently learning **Spring Boot, Spring Security, Java Collection Framework, Kotlin & Jetpack Compose**
-
-- 👨‍💻 All of my projects are available at [https://github.com/StudentIITU](https://github.com/StudentIITU)
-
-- 💬 Ask me about **Java, Java SE, Threads, Streams, Collections Framework**
-
-- 📫 How to reach me: **nurgalydamir03@gmail.com**
-
-- ⚡ Fun fact: **I can play dombyra as well as rubik's cube.**
-
+<!-- Social Media Links in a Grid Layout -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/damir-nurgali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damir-nurgali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/damir-nurgali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="damir-nurgali" height="30" width="40" /></a>
-<a href="https://instagram.com/damirnurgaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damirnurgaly" height="30" width="40" /></a>
-<a href="https://dribbble.com/peter-peter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="peter-peter" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@damir_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@damir_it" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/damir-nurgali" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damir-nurgali" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/damir-nurgali" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="damir-nurgali" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/damirnurgaly" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damirnurgaly" height="30" width="40" />
+  </a>
+  <a href="https://dribbble.com/peter-peter" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="peter-peter" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/@damir_it" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@damir_it" height="30" width="40" />
+  </a>
 </p>
 
+<!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -46,8 +62,10 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=studentiitu&show_icons=true&locale=en&layout=compact" alt="studentiitu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=studentiitu&show_icons=true&locale=en" alt="studentiitu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=studentiitu&" alt="studentiitu" /></p>
+<!-- GitHub Stats Section -->
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=studentiitu&show_icons=true&locale=en&layout=compact" alt="studentiitu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=studentiitu&show_icons=true&locale=en" alt="studentiitu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=studentiitu&" alt="studentiitu" />
+</p>
