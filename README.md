@@ -12,7 +12,7 @@
         - 👨‍💻 All of my projects are available at <a href="https://github.com/StudentIITU">https://github.com/StudentIITU</a><br>
         - 💬 Ask me about <strong>Java, Java SE, Threads, Streams, Collections Framework</strong><br>
         - 📫 How to reach me: <strong>nurgalydamir03@gmail.com</strong><br>
-        - ⚡ Fun fact: <strong>I thrive under pressure and remain calm in stressful situations.</strong>
+        - ⚡ Fun fact: <strong>I can play dombyra and so for rubik's cube.</strong>
       </p>
     </td>
     <td width="40%">
@@ -25,7 +25,7 @@
 
 <!-- Social Media Links in a Grid Layout -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left" style="background-color: #f0f8ff; padding: 10px; border-radius: 10px; border: 1px solid #e0e0e0;">
   <a href="https://linkedin.com/in/damir-nurgali" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damir-nurgali" height="30" width="40" />
   </a>
@@ -41,7 +41,7 @@
   <a href="https://www.hackerearth.com/@damir_it" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@damir_it" height="30" width="40" />
   </a>
-</p>
+</div>
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
