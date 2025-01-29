@@ -1,19 +1,20 @@
 
-<h2 align="center"> Damir Nurgali</h2>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An extraordinary backend developer from Kazakhstan;Second+line+of+text)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/StudentIITU">
+  Damir Nurgali</p>
+
+<p align="center">
+<!-- Typing SVG  -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=An%20extraordinary%20backend%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <div align="center">
-  <a href="nurgalydamir03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/damir-nurgali-132816313" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram/@damirnurgali" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank" />
-  </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
-  </a>
+  <a href="https://www.instagram.com/nurgalydamir"><img width="32px" alt="Instagram" title="Instagram" src=https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  
 </div>
 
 <!-- Align GIF and Text Side-by-Side -->
@@ -35,7 +36,7 @@
   </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=studentiitu&label=Profile%20views&color=0e75b6&style=flat" alt="studentiitu" /> </p>
+
 
 <!-- Social Media Links in a Grid Layout -->
 <h3 align="left">Connect with me:</h3>
