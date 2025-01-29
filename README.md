@@ -1,78 +1,32 @@
 
 <p align="center">
-  <div class="glitch-wrapper">
-   <div class="glitch" data-glitch="glitch">glitch</div>
-</div>
-
-<style>
-.glitch-wrapper {
-   width: 100%;
-   height: 100%;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   text-align: center;
-   background-color: #222;
-}
-
-.glitch {
-   position: relative;
-   font-size: 80px;
-   font-weight: 700;
-   line-height: 1.2;
-   color: #fff;
-   letter-spacing: 5px;
-   z-index: 1;
-}
-
-.glitch:before,
-.glitch:after {
-   display: block;
-   content: attr(data-glitch);
-   position: absolute;
-   top: 0;
-   left: 0;
-   opacity: 0.8;
-}
-
-.glitch:before {
-   animation: glitch-color 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
-   color: #0ff;
-   z-index: -1;
-}
-
-.glitch:after {
-   animation: glitch-color 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both infinite;
-   color: #ff00ff;
-   z-index: -2;
-}
-
-@keyframes glitch-color {
-   0% {
-      transform: translate(0);
-   }
-
-   20% {
-      transform: translate(-3px, 3px);
-   }
-
-   40% {
-      transform: translate(-3px, -3px);
-   }
-
-   60% {
-      transform: translate(3px, 3px);
-   }
-
-   80% {
-      transform: translate(3px, -3px);
-   }
-
-   to {
-      transform: translate(0);
-   }
-}
-</style>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <style>
+    @keyframes glitch1 {
+      0% { transform: translate(0, 0); }
+      20% { transform: translate(-3px, 3px); }
+      40% { transform: translate(-3px, -3px); }
+      60% { transform: translate(3px, 3px); }
+      80% { transform: translate(3px, -3px); }
+      100% { transform: translate(0, 0); }
+    }
+    @keyframes glitch2 {
+      0% { transform: translate(0, 0); }
+      20% { transform: translate(3px, -3px); }
+      40% { transform: translate(3px, 3px); }
+      60% { transform: translate(-3px, -3px); }
+      80% { transform: translate(-3px, 3px); }
+      100% { transform: translate(0, 0); }
+    }
+    .base { font: bold 80px sans-serif; fill: #337ac6; }
+    .ghost1 { font: bold 80px sans-serif; fill: #0ff; opacity: 0.8; animation: glitch1 0.3s ease infinite; }
+    .ghost2 { font: bold 80px sans-serif; fill: #ff00ff; opacity: 0.8; animation: glitch2 0.3s ease infinite; }
+  </style>
+  <!-- Removed the background rect -->
+  <text class="ghost1" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">Damir Nurgali</text>
+  <text class="ghost2" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">Damir Nurgali</text>
+  <text class="base" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">Damir Nurgali</text>
+</svg>
 </p>
  
 
