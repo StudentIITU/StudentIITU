@@ -1,6 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Damir Nurgali</h1>
-<h3 align="center">An extraordinary backend developer from Kazakhstan</h3>
+<h2 align="center"> Damir Nurgali</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An extraordinary backend developer from Kazakhstan;Second+line+of+text)](https://git.io/typing-svg)
+<div align="center">
+  <a href="nurgalydamir03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/damir-nurgali-132816313" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram/@damirnurgali" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank" />
+  </a>
+  <a href="https://codepen.io/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <!-- Align GIF and Text Side-by-Side -->
 <table>
