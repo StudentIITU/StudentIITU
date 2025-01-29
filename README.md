@@ -1,47 +1,26 @@
-
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
-  <style>
-    @keyframes glitch1 {
-      0% { transform: translate(0, 0); }
-      20% { transform: translate(-3px, 3px); }
-      40% { transform: translate(-3px, -3px); }
-      60% { transform: translate(3px, 3px); }
-      80% { transform: translate(3px, -3px); }
-      100% { transform: translate(0, 0); }
-    }
-    @keyframes glitch2 {
-      0% { transform: translate(0, 0); }
-      20% { transform: translate(3px, -3px); }
-      40% { transform: translate(3px, 3px); }
-      60% { transform: translate(-3px, -3px); }
-      80% { transform: translate(-3px, 3px); }
-      100% { transform: translate(0, 0); }
-    }
-    .base { font: bold 80px sans-serif; fill: #337ac6; }
-    .ghost1 { font: bold 80px sans-serif; fill: #0ff; opacity: 0.8; animation: glitch1 0.3s ease infinite; }
-    .ghost2 { font: bold 80px sans-serif; fill: #ff00ff; opacity: 0.8; animation: glitch2 0.3s ease infinite; }
-  </style>
-  <!-- Removed the background rect -->
-  <text class="ghost1" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">Damir Nurgali</text>
-  <text class="ghost2" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">Damir Nurgali</text>
-  <text class="base" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">Damir Nurgali</text>
-</svg>
+<p align="center" style="margin-bottom: 0">
+  <img src="assets/glitch-name.svg" alt="Damir Nurgali" width="600">
 </p>
- 
-
-<p align="center">
-<!-- Typing SVG  -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=An%20extraordinary%20backend%20developer;Experienced%20Java%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#337ac6&vCenter=true&pause=1000&size=22" /></a>
+<p align="center" style="margin-top: 0">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20my%20name%20is%20👆;You%20can%20find%20me%20on%20👇;&font=MonoLisa-Trial%20Code&center=true&width=750&height=35&color=337ac6&vCenter=true&pause=1000&size=28" /></a>
+  
 </p>
-<div align="center">
-  <a href="https://www.instagram.com/nurgalydamir"><img width="32px" alt="Instagram" title="Instagram" src=https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  
+<div align="center"> 
+  <a href="https://www.youtube.com/@damirnurgali4175" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/nurgalydamir" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/damir-nurgali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://t.me/DamirNurgali" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://github.com/StudentIITU" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
 
 <!-- Align GIF and Text Side-by-Side -->
