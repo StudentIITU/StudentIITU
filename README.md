@@ -23,6 +23,9 @@
   </a>
 </div>
 
+<!-- Add vertical spacing here -->
+<br>
+
 <!-- Align GIF and Text Side-by-Side -->
 <table>
   <tr>
@@ -121,10 +124,7 @@
 
   <h3>🔥 Streak Stats</h3>
   <p>
-    <a href="https://streak-stats.demolab.com/?user=StudentIITU>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="studentiitu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StudentIITU&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-        <img src="https://streak-stats.demolab.com?user=DoZhD1k&theme=cobalt&border_radius=10" alt="GitHub Streak" />
-    </a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-eight.vercel.app?user=StudentIITU&theme=monokai-metallian&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -139,6 +139,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="studentiitu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studentiitu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
     </a>
+    <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
