@@ -121,9 +121,10 @@
 
   <h3>🔥 Streak Stats</h3>
   <p>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=studentiitu">
+    <a href="https://streak-stats.demolab.com/?user=StudentIITU>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="studentiitu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StudentIITU&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+        <img src="https://streak-stats.demolab.com?user=DoZhD1k&theme=cobalt&border_radius=10" alt="GitHub Streak" />
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
